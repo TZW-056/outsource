@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/outsource.iml" filepath="$PROJECT_DIR$/.idea/outsource.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/outsource.iml" filepath="$PROJECT_DIR$/outsource.iml" />
->>>>>>> origin/main
     </modules>
   </component>
 </project>
